@@ -54,7 +54,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
         home: Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.lime,
         title: Text('Calculator'),
       ),
       body: Column(
