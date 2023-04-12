@@ -1,2 +1,2 @@
 # flutter-andika-ferdiansyah-fundamental
-mini project
+the project
